@@ -1,7 +1,7 @@
 ### Hi there 👋
-🌱 I’m currently learning Python
-🤔 I’m trying to pass the next semester 😄
-🔭 I’m intrested in AI
+🌱 I’m currently learning Python \n
+🤔 I’m trying to pass the next semester 😄 \n
+🔭 I’m intrested in AI \n
 <!--
 **Kubasz091/Kubasz091** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
