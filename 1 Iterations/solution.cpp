@@ -1,4 +1,5 @@
 #include <cmath>
+#include <iostream>
 
 int solution(int N) {
     int curr_len = 0;
@@ -20,4 +21,15 @@ int solution(int N) {
     }
 
     return max_len;
+}
+
+
+int main() {
+    // Example usage:
+    int N = 529; // Binary: 1000010001
+    int result = solution(N);
+
+    std::cout << result << std::endl;
+    // result should be 4, as there are four consecutive zeros between the ones.
+    return 0;
 }
